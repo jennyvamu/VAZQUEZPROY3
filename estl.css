@@ -1,0 +1,31 @@
+body{
+	background-color: #F0092C;
+}
+
+.nom{
+	font-family: Lovina October Five;
+	font-size: 30px;
+	color: #990D22;
+	text-align: center;
+}
+
+.tit{
+	font-family: Island Namina;
+	font-size: 35px;
+	color: #000000;
+	text-align: center;
+}
+
+.sub{
+	font-family: CHICKEN Pie Height;
+	font-size: 25px;
+	color: #990D22;
+	text-align: left; 
+}
+
+.ven{
+	background: #FA6178;
+	font-family: CHICKEN Pie Height;
+	font-size: 20px;
+	color: #FFFFFF;
+}
